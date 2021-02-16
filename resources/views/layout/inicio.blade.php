@@ -38,10 +38,16 @@
                 <a class="nav-link active" aria-current="page" href="/inicio">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
+                <a class="nav-link" href="/web1">Migraciones</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                <a class="nav-link" href="/web2">Seeders</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="">Mail</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link disabled" href="" tabindex="-1" aria-disabled="true">Disabled</a>
               </li>
             </ul>
             <form class="d-flex">
@@ -59,14 +65,15 @@
 
     <footer class="container bg-dark p-3 mt-1 mb-1 text-center d-flex justify-content-center">
         <div class="row">
-            <div class="col">
+            <div class="col text-white">
 
                 <a href=""><i class="fa fa-facebook fa-lg"></i></a>
                 <a href=""><i class="fa fa-twitter fa-lg"></i></a>
                 <a href=""><i class="fa fa-instagram fa-lg"></i></a>
                 <br>
-                <label for="" class="mt-1">© 2020 Copyright:</label>
+                <label for="" class="mt-1">2n DAW:</label>
                 <label for=""> <a class="" href="">Toni Galmés</a></label>
+                <label for="" class="mt-1">16-02-2021</label>
             </div>
         </div>
     </footer>
