@@ -1,8 +1,8 @@
 @extends('/layout/inicio')
-<h1>Web1</h1>
+<h1>Migraciones</h1>
 @section('container')
     <h3 class="text-center">Inserta en la BD</h3>
-
+<h1>Migracion Realizada</h1>
     <div class="container">
         <div class="row justify-content-center">
             <form action="" method="POST">

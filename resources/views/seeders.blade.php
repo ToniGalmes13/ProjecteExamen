@@ -1,11 +1,11 @@
 @extends('/layout/inicio')
 
-<h1>Web2</h1>
+<h1>Seeders</h1>
 
 @section('container')
 
 
-    <h3>Contenido random</h3>
+    <h3>Seeder realizado</h3>
 
 <div class="container">
     <div class="row">

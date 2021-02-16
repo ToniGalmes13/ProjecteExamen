@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\emailController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -17,5 +18,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::view('inicio', 'inicio');
-Route::view('web1', 'web1');
-Route::view('web2', 'web2');
+Route::view('migrations', 'migrations');
+Route::view('seeders', 'seeders');
+Route::view('email', 'email');
+
+Route::post('email', [emailController::class, 'store'])->name('email');

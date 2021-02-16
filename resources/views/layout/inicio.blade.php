@@ -38,13 +38,13 @@
                 <a class="nav-link active" aria-current="page" href="/inicio">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/web1">Migraciones</a>
+                <a class="nav-link" href="/migrations">Migraciones</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/web2">Seeders</a>
+                <a class="nav-link" href="/seeders">Seeders</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="">Mail</a>
+                <a class="nav-link" href="/email">Mail</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link disabled" href="" tabindex="-1" aria-disabled="true">Disabled</a>
