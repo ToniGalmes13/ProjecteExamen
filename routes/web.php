@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::view('inicio', 'inicio');
+Route::view('web1', 'web1');
+Route::view('web2', 'web2');
